@@ -7,3 +7,4 @@ TRIMUI SMART SD base package 20240506 for firmware v1.0.0
 2. Use software scaling for pcsx-rearmed-libretro.
 3. Add timezone.
 4. Add separated CPU speed setting scripts in Emus.
+5. Merge RetroArch hw-accel and SDL version in same folder.
